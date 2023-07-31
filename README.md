@@ -1,8 +1,13 @@
-# React + Vite
+<h1 align="center"> Loja de Luminárias Marrocco<br>
+🎓 Projeto de certificação Instituto Nu e Descomplica</h1>
+<p align="center">README completo e atualizado em breve<p/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Índice 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* [Resumo](#resumo)
+* [Introdução](#introdução)
+
+## Previa da aplicação
+
+[hitpaw-1690766151564.webm](https://github.com/DeiseFAS/NuDescomplica-2projetoavaliativo/assets/71991444/2dd08bb6-426f-43c3-a40c-5a6f356dfce5)
